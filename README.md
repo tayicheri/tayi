@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tayi
+- 👋 Hi, I’m @tayicheri
 - 👀 I’m interested in PHP, 
 - 🌱 I’m currently learning Symfony
 - 📫 How to reach me tayicheri@hotmail.com
